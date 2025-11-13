@@ -9,6 +9,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-omertarikyilmaz%2Fsimpletoken-black.svg)](https://github.com/omertarikyilmaz/simpletoken)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-omertarikyilmaz-yellow.svg)](https://huggingface.co/omertarikyilmaz)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xkoGYWcTREahjW8VJHzGhRxd9H7Wp8Vb?usp=sharing)
 
 </div>
 
@@ -191,6 +192,8 @@ A comprehensive Jupyter notebook (`simpletoken.ipynb`) is provided for education
 - Practical exercises
 
 The notebook is compatible with Google Colab and local Jupyter environments.
+
+**Access the interactive notebook on Google Colab:** [Open in Colab](https://colab.research.google.com/drive/1xkoGYWcTREahjW8VJHzGhRxd9H7Wp8Vb?usp=sharing)
 
 ---
 
